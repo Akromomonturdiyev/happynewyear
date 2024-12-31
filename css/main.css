@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    flex-direction: column;
+    background-color: #222;
+    color: white;
+    text-align: center;
+}
+h1 {
+    font-size: 48px;
+    margin: 10px 0;
+}
+.year {
+    color: red;
+    font-size: 60px;
+    font-weight: bold;
+}
+.newYearMessage {
+    color: yellow;
+    font-size: 32px;
+    margin-top: 30px;
+}
+
+.happy{
+    text-transform: capitalize;
+    font-size: 40px;
+    color: green;
+}
